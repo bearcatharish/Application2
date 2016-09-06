@@ -19,6 +19,7 @@ public class Application2 {
         
         System.out.println("Testing Application 2");
         System.out.println("Adding 2nd line");
+        System.out.println("Check the differences");
     }
     
 }
