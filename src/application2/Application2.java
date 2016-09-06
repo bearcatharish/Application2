@@ -18,6 +18,7 @@ public class Application2 {
         // TODO code application logic here
         
         System.out.println("Application 2");
+        System.out.println("Adding 2nd line");
     }
     
 }
