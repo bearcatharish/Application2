@@ -21,6 +21,7 @@ public class Application2 {
         System.out.println("Adding 2nd line");
         System.out.println("Check the differences");
         System.out.println("Difference2");
+        System.out.println("Branch");
     }
     
 }
